@@ -8,7 +8,7 @@ To run this program, make sure you have Java installed on your system. Save the 
 
 Copy
 Edit
-javac CareerPathRecommender.java
+javac CareerPathRecommender.java and 
 java CareerPathRecommender
 Once the program starts, answer each question by typing responses like yes, no, creative, analytical, people, or machines. After answering all questions, you'll receive a list of recommended careers based on your inputs.
 
